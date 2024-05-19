@@ -34,10 +34,13 @@
   }
 
   .next{
+    color: #ffffff;
     height: 40px;
     width: 100px;
     padding: auto;
     border-radius: 5px;
+    border-color: #3c6fff;
+    background-color: #3c6fff;
   }
 
   .restart{
