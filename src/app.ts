@@ -32,16 +32,11 @@ const message2 = [
 ];
 
 const message3 = [
-    "Ton chiffre est un nombre premier.",
-    "Ton chiffre est un multiple de 3.",
-    "Le chiffre que tu as en tête est impair.",
-    "Le chiffre que tu as en tête est pair.",
-    "Ton chiffre est plus grand que 5.",
-    "Ton chiffre est plus petit que 5."
+    ""
 ];
 
 // Liste des blocs de messages
-const messageBlocks = [message1, message2, message3];
+const messageBlocks = [message1, message2];
 
 // Fonction pour choisir aléatoirement un bloc de messages
 function selectRandomMessages() {
