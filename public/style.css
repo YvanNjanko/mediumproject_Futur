@@ -22,7 +22,29 @@
   }
 
   #game{
-    height: 200px;
+    height: 150px;
+  }
+
+  .text{
+    margin-bottom: 50px;
+  }
+
+  .btn{
+    margin-bottom: 50px;
+  }
+
+  .next{
+    height: 40px;
+    width: 100px;
+    padding: auto;
+    border-radius: 5px;
+  }
+
+  .restart{
+    height: 40px;
+    width: 130px;
+    padding: auto;
+    border-radius: 5px;
   }
 
   h3 {
@@ -33,7 +55,7 @@
   }
   
   p {
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: 400;
     color: #565b70;
     word-break: break-all;
